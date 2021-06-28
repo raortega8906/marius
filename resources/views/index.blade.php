@@ -136,7 +136,7 @@
                     <h3>Nuestros Servicios</h3>
                     <p>Diseñamos y ejecutamos su vivienda de forma integral. Consulte presupuesto sin compromiso.
                         Realizamos mobiliario para todo tipo de viviendas, locales comerciales y restaurantes.
-                        Proyectos de reforma. Mobiliario a medida. Construccion. Servicios: Consulta presupuesto,
+                        Proyectos de reforma. Mobiliario a medida. Construcción. Servicios: Consulta presupuesto,
                         Proyectos integrales.</p>
                 </div>
                 <div class="col-md-5">
