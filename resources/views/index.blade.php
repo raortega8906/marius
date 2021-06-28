@@ -57,7 +57,7 @@
                     <img class="d-block w-100" src="/bluesky/imgs/slide1.jpg" alt="slider_img">
                     <div class="ovarlay_slide_cont">
                         <h2>Amamos Trabajar</h2>
-                        <h4>Servicio de mantenimiento</h4>
+                        <h4>Servicio de Reforma</h4>
                         <p></p>
                         <a class="blue_bt" href="#service">Mira Nuestros Servicios</a>
                     </div>
@@ -66,7 +66,7 @@
                     <img class="d-block w-100" src="/bluesky/imgs/slide1.jpg" alt="slider_img">
                     <div class="ovarlay_slide_cont">
                         <h2>Amamos Trabajar</h2>
-                        <h4>Servicio de Remodelaje</h4>
+                        <h4>Servicio de Mantenimiento</h4>
                         <p></p>
                         <a class="blue_bt" href="#service">Mira Nuestros Servicios</a>
                     </div>
