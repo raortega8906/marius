@@ -102,7 +102,7 @@
             <div class="row">
                 <div class="col-md-7">
                     <h3 class="white_font">Cómo Trabajamos</h3>
-                    <p class="white_font">Tras de conocer el servicio requerido, celebramos una reunión con el
+                    <p class="white_font">Tras conocer el servicio requerido, celebramos una reunión con el
                         cliente en la que anotamos sus necesidades, objetivos, fuentes de inspiración y cualquier
                         detalle que nos ayude a tener una idea precisa de lo que necesita. En esta estapa, si el cliente
                         lo requiere, podemos aportar nuestra experiencia e ideas sobre cómo enfocar determinadas áreas, 
