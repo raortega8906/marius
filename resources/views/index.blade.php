@@ -86,8 +86,8 @@
                 <div class="col-md-5">
                     <h4>SOBRE MARIUS</h4>
                     <h3 style="text-transform: none !important">Nosotros construimos para su comodidad</h3>
+                    <p>Nuestro Objetivo: Ofrecerte una experiencia única de servicio.</p>
                     <p>Nuestra Misión: Acompañarte en el proceso de planificación del servicio requerido.</p>
-                    <p>Nuestra Vision: Ofrecerte una experiencia única de servicio.</p>
                 </div>
                 <div class="col-md-6 offset-md-1">
                     <div class="full text_align_center">
@@ -101,14 +101,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-7">
-                    <h3 class="white_font">Como Trabajamos</h3>
-                    <p class="white_font">Con tal de conocer el servicio requerido, realizamos una reunión con el
-                        cliente,
-                        en la que nos informamos sobre sus necesidades, objetivos, fuentes de inspiración y cualquier
+                    <h3 class="white_font">Cómo Trabajamos</h3>
+                    <p class="white_font">Tras de conocer el servicio requerido, celebramos una reunión con el
+                        cliente en la que anotamos sus necesidades, objetivos, fuentes de inspiración y cualquier
                         detalle que nos ayude a tener una idea precisa de lo que necesita. En esta estapa, si el cliente
-                        lo requiere, podemos aportar ideas sobre cómo enfocar las áreas que no tenga claras sobre el
-                        desarrollo del servicio. Nos gusta aconsejar y ayudar a nuestros clientes a conseguir el mejor
-                        trabajo posible.</p>
+                        lo requiere, podemos aportar nuestra experiencia e ideas sobre cómo enfocar determinadas áreas, 
+                        quizas no suficientemente claras sobre el proyecto y los servicios a ejecutar. Nos gusta aconsejar 
+                        y ayudar a nuestros clientes a obtener resultados óptimos en sus  proyectos.</p>
                 </div>
                 <div class="col-md-5">
                 </div>
@@ -134,10 +133,9 @@
             <div class="row">
                 <div class="col-md-7">
                     <h3>Nuestros Servicios</h3>
-                    <p>Diseñamos y ejecutamos su vivienda de forma integral. Consulte presupuesto sin compromiso.
-                        Realizamos mobiliario para todo tipo de viviendas, locales comerciales y restaurantes.
-                        Proyectos de reforma. Mobiliario a medida. Construcción. Servicios: Consulta presupuesto,
-                        Proyectos integrales.</p>
+                    <p>Diseñamos y ejecutamos su vivienda de forma integral. Realizamos mobiliario para todo tipo de vivienda 
+                    o local comercial. Proyectos de reforma. Mobiliario a medida. Construcción. Proyectos integrales. 
+                    No dude en consultar su presupuesto sin compromiso.</p>
                 </div>
                 <div class="col-md-5">
                 </div>

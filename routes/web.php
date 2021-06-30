@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Rura principal
 Route::get('/', function () {
     return view('index');
 });
