@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\MailController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,4 +17,6 @@ use Illuminate\Support\Facades\Route;
 // Rura principal
 Route::get('/', function () {
     return view('index');
-});
+})->name('index');
+
+Route::post('mail', [MailController::class, 'store'])->name('mail.store');

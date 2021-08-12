@@ -176,12 +176,13 @@
             <div class="row">
                 <div class="col-md-7">
                     <div class="contact-form">
-                        <form>
-                            <input type="text" placeholder="Nombre" />
-                            <input type="email" placeholder="Correo Electrónico" />
-                            <input type="text" placeholder="Teléfono" />
-                            <input type="text" placeholder="Tipo de Servicio">
-                            <textarea placeholder="Mensaje"></textarea>
+                        <form action="{{ route('mail.store') }}" method="POST">
+                            @csrf
+                            <input type="text" placeholder="Nombre" name="name" />
+                            <input type="email" placeholder="Correo Electrónico" name="email" />
+                            <input type="text" placeholder="Teléfono" name="phone" />
+                            <input type="text" placeholder="Tipo de Servicio" name="service" />
+                            <textarea placeholder="Mensaje" name="content"></textarea>
                             <input type="submit" value="Reservar">
                         </form>
                     </div>
